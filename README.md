@@ -8,6 +8,11 @@ I currently work as a Developer Team Lead, leading development and QA efforts on
 
 This profile is a professional technical summary, not a public job-search announcement. It highlights my background, leadership experience, and engineering focus for collaborators, peers, and professional contacts.
 
+## Current projects
+
+- **[TubePull](https://tubepull.com)** — A privacy-friendly YouTube and multi-platform video downloader supporting 13+ platforms (YouTube, TikTok, Twitter/X, Reddit, Twitch clips, Streamable, Vimeo, SoundCloud, Bandcamp, Mixcloud, Dailymotion, Facebook, Instagram). MCP server available for Claude and Perplexity. Built on PHP 8.3, MySQL, Valkey, and a distributed worker pool on DigitalOcean.
+- **[Moondust Studios](https://moonduststudios.com)** — Solo founder studio shipping SaaS products.
+
 ## Leadership and engineering focus
 
 - Technical leadership: 5+ years managing software development teams, mentoring developers, coordinating QA, collaborating with product managers, and driving feature delivery.
